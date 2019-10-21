@@ -4,7 +4,7 @@
 
 |         数据结构与算法         |        网络         |       Node       |       JavaScript       |         HTML         |       CSS       |
 | :----------------------------: | :-----------------: | :--------------: | :--------------------: | :------------------: | :-------------: |
-| [:memo:](#memo-数据结构与算法) | [:snail:](#snail-网络) | [:8ball:](#8ball-Node) | [:shirt:](#shirt-JavaScript) | [:hamburger:](#hamburger-HTML) | [:lemon:](#CSS) |
+| [:memo:](#memo-数据结构与算法) | [:snail:](#snail-网络) | [:8ball:](#8ball-Node) | [:shirt:](#shirt-JavaScript) | [:hamburger:](#hamburger-HTML) | [:lemon:](#lemon-CSS) |
 
 <br>
 
@@ -18,4 +18,4 @@
 
 ## :hamburger: HTML   
 
-## CSS
+## :lemon: CSS
