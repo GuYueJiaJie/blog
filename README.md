@@ -10,7 +10,7 @@
 
 ## :memo: 数据结构与算法
 
-- [Leetcode 的 Javascript 题解](https://github.com/GuYueJiaJie/blog/blob/master/算法与数据结构/README.md)
+- [Leetcode 的 Javascript 题解](https://github.com/GuYueJiaJie/blog/blob/master/算法与数据结构/README.md#pear-子序列-子串问题)
 
 ## :snail: 网络
 
