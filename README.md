@@ -10,8 +10,8 @@
 
 ## :memo: 数据结构与算法
 
-- [Leetcode 的 Javascript 题解](算法与数据结构/README.md)
-- [《剑指 offer》Javascript 题解](算法与数据结构/README.md)
+- [Leetcode 的 Javascript 题解](数据结构与算法/README.md)
+- [《剑指 offer》Javascript 题解](数据结构与算法/README.md)
 
 ## :snail: 网络
 
