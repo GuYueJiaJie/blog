@@ -12,6 +12,7 @@
 
 - [Leetcode 的 Javascript 题解](数据结构与算法/README.md)
 - [《剑指 offer》Javascript 题解](数据结构与算法/README.md)
+- [常用方法概要](JavaScript文章/README.md)
 
 ## :snail: 网络
 
