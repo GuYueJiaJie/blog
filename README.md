@@ -12,6 +12,7 @@
 
 - [Leetcode 的 Javascript 题解](数据结构与算法/README.md)
 - [《剑指 offer》Javascript 题解](数据结构与算法/README.md)
+- [常见的排序、遍历等算法](数据结构与算法/常见的排序和遍历等算法/README.md)
 - [常用方法概要](数据结构与算法/精品文章/README.md)
 
 ## :snail: 网络
