@@ -1,0 +1,22 @@
+*.un~
+node_modules
+bower_components
+/npm-debug.log
+/dump.rdb
+.DS_Store
+/build/static
+dump.rdb
+/package-lock.json
+/buildDev
+.idea
+~$.*
+# 忽略vscode配置文件
+.vscode/*
+
+
+locals/xlsx
+# git pre-commit tsc lint
+.git-tsconfig.json
+__coverage
+coverage
+*.xlsx

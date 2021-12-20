@@ -7,13 +7,17 @@
 1. [JS 刷题总结](https://www.cnblogs.com/wuguanglin/p/SummaryOfJSDoAlgorithmProblem.html)
 2. 判断奇偶：
 
-   ```
-   // 判断奇偶
-   evenNum & 1 === 0; // 偶数
-   oddNum & 1 === 1; // 奇数
-   ```
+    ```
+    // 判断奇偶
+    evenNum & 1 === 0; // 偶数
+    oddNum & 1 === 1; // 奇数
+    ```
 
 3. 位运算中，把一个整数减一，在和原整数作与运算，会把该正数最右边一位的 1 变成 0.
+
+# :speaking_head: 好文章汇总
+
+1. [labuladong 的刷题三件套](https://labuladong.gitee.io/algo/2/17/)
 
 # :corn: 递归
 
@@ -23,7 +27,7 @@
 
 1. **一个问题的解可以分解为几个子问题的解**。
 
-   子问题就是数据规模更小的问题。
+    子问题就是数据规模更小的问题。
 
 2. **这个问题与分解之后的子问题，除了数据规模不同，求解思路完全一样**。
 
@@ -47,16 +51,16 @@ f(n) = f(n-1) + f(n-2)
 
 ```javascript
 function f(n) {
-  if (n === 1) return 1;
-  if (n === 2) return 2;
+    if (n === 1) return 1;
+    if (n === 2) return 2;
 
-  if (map.has(n)) {
-    return map.get(n);
-  }
+    if (map.has(n)) {
+        return map.get(n);
+    }
 
-  let res = f(n - 1) + f(n - 2);
-  map.set(n, res);
-  return res;
+    let res = f(n - 1) + f(n - 2);
+    map.set(n, res);
+    return res;
 }
 ```
 
